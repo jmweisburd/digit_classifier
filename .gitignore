@@ -4,3 +4,4 @@
 data
 .DS*
 *.csv
+pickle
